@@ -8,7 +8,7 @@ void test();
 int main()
 {
 	test();
-
+	court<<"code nhu trau ma diem van thap!";
 	return 0;
 }
 
