@@ -9,6 +9,7 @@ int main()
 {
 	test();
 	cout<<"code nhu trau ma diem van thap!";
+	cout<<"do ban code ngu qua do! co gi dau ma bat ngo";
 	return 0;
 }
 
