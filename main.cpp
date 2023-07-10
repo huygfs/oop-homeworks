@@ -8,7 +8,6 @@ void test();
 int main()
 {
 	test();
-	cout << "\nhuy\n";
 
 	return 0;
 }
