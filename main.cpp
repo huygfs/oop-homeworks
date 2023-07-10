@@ -10,6 +10,7 @@ int main()
 	test();
 	cout<<"code nhu trau ma diem van thap!";
 	cout<<"do ban code ngu qua do! co gi dau ma bat ngo";
+	cout<<"cdm! that nhung hoi tho roi do !";
 	return 0;
 }
 
